@@ -1,0 +1,6 @@
+name: ItemLink
+version: '${version}'
+
+main: org.leafhold.itemLink.ItemLink
+api-version: '1.21.11'
+load: POSTWORLD
